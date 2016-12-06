@@ -1,0 +1,17 @@
+1. Create table Employee having Employee Number, Name, Date Of Birth, Designation, Salary.
+Please add Employee Number as primary key and other constraints as required.
+
+2. insert the following records into it.
+	{
+		1,'John',25-Jan-1985,'Clerk',8000
+		2,'Clara',7-Oct-1983,'Accountant',12000
+		3,'Ram',21-Dec-1990,'Developer',15000
+		4,'Sammy',14-Feb-1987,'Manager',17000			
+		5,'John',25-Jan-1985,'Clerk',8000
+		6,'Clara',7-Oct-1983,'Accountant',12000
+		7,'Ram',21-Dec-1990,'Developer',15000
+		8,'Sammy',14-Feb-1987,'Manager',17000					
+	}
+
+3. Get list of employees who are getting more than 10000 as salary.
+4. Get employee names 
